@@ -1,0 +1,36 @@
+_repo: Das-Gefangnis-zum-Preussischen-Adler-Eine-selbsterlebte-Schildburgerei_71017
+_version: 0.0.1
+alternative_title: 'Das Gefängnis zum Preussischen Adler :  Eine selbsterlebte Schildbürgerei'
+creator:
+  author:
+    agent_name: Wille, Bruno
+    birthdate: 1860
+    deathdate: 1928
+    gutenberg_agent_id: '56041'
+    url: http://www.gutenberg.org/2009/agents/56041
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Bruno_Wille
+    - https://de.wikipedia.org/wiki/Bruno_Wille
+description: ''
+gutenberg_issued: '2023-06-22'
+identifiers:
+  gutenberg: '71017'
+language: de
+pgterms:marc905: 20200822041431wille
+pgterms:marc906: '1914'
+pgterms:marc907: de
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+publication_note: '  $aGermany :$bEugen Dieterichs, $c1914.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Autobiographies'
+- !lcsh 'Authors, German -- 19th century -- Biography'
+- !lcsh 'Wille, Bruno, 1860-1928'
+- !lcsh 'Church and state -- Germany -- Prussia'
+- !lcsh 'Freedom of religion -- Germany -- Prussia'
+- !lcc 'PT'
+- GITenberg
+title: 'Das Gefängnis zum Preußischen Adler : $b Eine selbsterlebte Schildbürgerei'
+url: http://www.gutenberg.org/ebooks/71017
