@@ -1,6 +1,9 @@
 _repo: Das-Gefangnis-zum-Preussischen-Adler-Eine-selbsterlebte-Schildburgerei_71017
 _version: 0.1.0
 alternative_title: 'Das Gefängnis zum Preussischen Adler :  Eine selbsterlebte Schildbürgerei'
+covers:
+- cover_type: archival
+  image_path: 71017-h/images/cover.jpg
 creator:
   author:
     agent_name: Wille, Bruno
@@ -12,6 +15,8 @@ creator:
     - https://en.wikipedia.org/wiki/Bruno_Wille
     - https://de.wikipedia.org/wiki/Bruno_Wille
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71017#Das-Gefangnis-zum-Preussischen-Adler-Eine-selbsterlebte-Schildburgerei
 gutenberg_issued: '2023-06-22'
 identifiers:
   gutenberg: '71017'
